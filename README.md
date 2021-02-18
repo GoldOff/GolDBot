@@ -1,0 +1,2 @@
+# GolDBot
+BOT PARA O WHATSAPP
